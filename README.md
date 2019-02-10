@@ -1,2 +1,2 @@
-# personal-website-01
-A Personal Website Design for a friend
+# personal-website
+A Personal Website Design
